@@ -55,6 +55,7 @@ body
 .colors
 {
     transition: all .5s;
+    height:100vh;
     
 }
 .colors h1{
