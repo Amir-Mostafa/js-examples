@@ -54,7 +54,6 @@ body
 
 .colors
 {
-    height: 50vh;
     transition: all .5s;
     
 }
@@ -82,7 +81,6 @@ body
 {
 
     background-color: #28a745 ;
-    height: 50vh;
 }
 /* end clock section  */
 
